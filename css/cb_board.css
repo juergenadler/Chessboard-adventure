@@ -6,18 +6,6 @@ Review:
   - :root stuff in separate files? 
 */
 
-:root {
-  /* Variables. Review: Where to place finally? */
-  --clr_dark: #aaa;
-  --clr_light: #eee;
-  --clr_black: black;
-  --clr_white: white;
-
-  /* Global settings */
-  * {
-    font-size: 14pt;    
-  }
-}
 
 .chessboard {
   border-spacing: 0;

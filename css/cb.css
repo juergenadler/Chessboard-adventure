@@ -7,6 +7,6 @@
    BTW: @include seem to be no part of CSS3 anymore?
 */
 
-@import url("./variables.css");
+@import url("./cb_variables.css");
 @import url("./cb_board.css");
 @import url("./cb_doc.css");
